@@ -14,3 +14,34 @@ I like solving problems.
 - Wrote [<kbd>epilys/bb</kbd>](https://github.com/epilys/bb) a minimal terminal process viewer in <kbd>Rust</kbd>
 - Created the [**`[sic]`**](https://sic.pm) link aggregator/forum and wrote the software powering its Web, mailing list and NNTP public interfaces, 
  [**`[tade]`**](https://github.com/epilys/tade)
+
+----
+
+### Notable sideprojects
+
+<table><tr><th>Rust</th><th>Python</th><th>Ocaml</th><th>Haskell</th></tr><tr><td>
+
+ - [`bb`](https://github.com/epilys/bb) simple process viewer https://crates.io/crates/bb 
+ - [`meli/meli`](https://github.com/meli/meli/) terminal mail client
+ - [`rlr`](https://github.com/epilys/rlr) interactive pixel screen ruler and protractor in Gtk3
+ - [`bitmappers-companion`](https://github.com/epilys/bitmappers-companion) zine/book about bitmap drawing algorithms and math with code examples in Rust
+ - [`buke`](https://github.com/epilys/buke) full text search manpages
+ - [`vfsstat.rs`](https://github.com/epilys/vfsstat.rs) Example sqlite3 Dynamic Loadable Extension in Rust - vfs and vtab modules - port of `vfsstat.c`
+ - [`kitkat`](https://github.com/epilys/kitkat) Kit-kat clock utility rewritten in Rust using minifb
+ - [`gerb`](https://github.com/epilys/gerb) Graphical font editor
+ 
+</td><td>
+
+- [`bibliothecula`](https://github.com/epilys/bibliothecula) document organizer with tags and full-text-search, in a simple and clean sqlite3 schema 
+- [`sic`](https://github.com/epilys/sic) message board/forum software organised by tags (with no javascript)
+- [`nntpserver.py`](https://github.com/epilys/nntpserver.py) No-dependency, single file NNTP server library for developing modern, rfc3977-compliant (bridge) NNTP servers. 
+ 
+</td><td>
+
+ - [`ocaml-prolog`](https://github.com/epilys/ocaml-prolog) prolog interpreter
+  
+</td><td>
+ 
+ - [`baluster`](https://github.com/epilys/baluster) terminal paste bin server
+ 
+</td></tr></table>
