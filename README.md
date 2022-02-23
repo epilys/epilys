@@ -2,7 +2,7 @@
 
 I like solving problems.
 
-- 🤔 I’m looking for work
+- 🤔 I freelance on systems-level programming (but open to other areas too) e.g. databases, distributed systems, filesystems 
 - 🖋️ mainly use <kbd>Rust</kbd>, <kbd>python</kbd>, but also fluent in <kbd>haskell</kbd>, <kbd>ocaml</kbd>, <kbd>c</kbd>, <kbd>c++</kbd>, <kbd>js</kbd>
 - ✍️ blog with some slightly technical writeups: <kbd>https://nessuent.xyz</kbd>
 - 📫 How to reach me: email: <kbd>epilys@nessuent.xyz</kbd>, mastodon: <kbd>https://chaos.social/@epilys</kbd> IRC: <kbd>epilys</kbd>@`{oftc,libera}`
