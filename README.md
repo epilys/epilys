@@ -34,7 +34,8 @@ I like solving problems.
 
 - [`bibliothecula`](https://github.com/epilys/bibliothecula) document organizer with tags and full-text-search, in a simple and clean sqlite3 schema 
 - [`sic`](https://github.com/epilys/sic) message board/forum software organised by tags (with no javascript)
-- [`nntpserver.py`](https://github.com/epilys/nntpserver.py) No-dependency, single file NNTP server library for developing modern, rfc3977-compliant (bridge) NNTP servers. 
+- [`nntpserver.py`](https://github.com/epilys/nntpserver.py) No-dependency, single file NNTP server library for developing modern, rfc3977-compliant (bridge) NNTP servers.
+ - [`webmention_server.py`](https://github.com/epilys/webmention_server.py) No-dependency, single file dummy http server for local testing - both receives and sends webmentions. 
  
 </td><td>
 
